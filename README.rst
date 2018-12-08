@@ -15,11 +15,12 @@
     :target: https://travis-ci.org/yngtodd/gpu_programming
 
 
-=============================
+===============
 GPU Programming
-=============================
+===============
 
-GPU programming bits.
+GPU programming bits. Aiming to keep things simple here, writing Cuda examples with
+Python bindings.
 
 Documentation
 --------------
